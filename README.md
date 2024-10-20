@@ -1,7 +1,7 @@
 Hi there 👋, I'm Basile Atsougan
 I’m a software engineer with 03+ years of experience, passionate about building impactful solutions across different platforms, from web to mobile. Here’s a bit about what I’m up to:
 
-🚀 Exploring: React Native & ython (django) & AI-powered applications
+🚀 Exploring: React Native & Python (django) & AI-powered applications
 🎓 Currently learning: Diving deeper into cybersecurity.
 🤝 Looking to collaborate on: Chatbots for small businesses, AI apps, and mobile applications.
 🛠️ Building: A church music app, an AI app that summarizes great books, and a car rental website with integrated booking and payment systems.
