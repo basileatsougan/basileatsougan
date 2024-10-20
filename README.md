@@ -1,5 +1,5 @@
 Hi there 👋, I'm Basile Atsougan
-I’m a software developer with 03+ years of experience, passionate about building impactful solutions across different platforms, from web to mobile. Here’s a bit about what I’m up to:
+I’m a software engineer with 03+ years of experience, passionate about building impactful solutions across different platforms, from web to mobile. Here’s a bit about what I’m up to:
 
 🚀 Exploring: React Native & ython (django) & AI-powered applications
 🎓 Currently learning: Diving deeper into cybersecurity.
