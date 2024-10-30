@@ -6,7 +6,7 @@ I’m a software engineer with 03+ years of experience, passionate about buildin
 🤝 Looking to collaborate on: Chatbots for small businesses, AI apps, and mobile applications.  
 🛠️ Building: A church music app, an AI app that summarizes great books, and a car rental website with integrated booking and payment systems.  
 💡 Fun fact: I once turned a $350 trading capital into $1,000 before experimenting with different strategies!  
-Let’s connect!  
+
 
 📨 You can reach me via LinkedIn or email.  
 
