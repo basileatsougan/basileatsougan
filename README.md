@@ -12,7 +12,7 @@ I’m a software engineer, passionate about building impactful solutions across 
 
 To see my Portfolio, click on: [Portfolio](https://portfolio-nine-xi-99.vercel.app/)
 
-📨 You can reach at: **atsougan870@gmail.com** | ![LinkedIn](https://www.linkedin.com/in/basile-atsougan/)
+📨 You can reach at: **atsougan870@gmail.com** | [LinkedIn](https://www.linkedin.com/in/basile-atsougan/)
 
 ---
 
