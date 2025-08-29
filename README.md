@@ -23,7 +23,7 @@ I’m a software engineer, passionate about building impactful solutions across 
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="ReactJS" width="40" height="40"/>
-  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" alt="NextJS" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF" alt="NextJS" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React Native" width="40" height="40"/>
 </p>
@@ -39,7 +39,7 @@ I’m a software engineer, passionate about building impactful solutions across 
 ### Databases  
 <p align="left">
   <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="PostgresSQL" width="40" height="40"/>
-  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg?color=%23FFFFFF" alt="MySQL" width="40" height="40"/>
 </p>
 
 ### DevOps & Tools  
@@ -56,8 +56,6 @@ I’m a software engineer, passionate about building impactful solutions across 
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats  
-
 ![Basile's GitHub stats](https://github-readme-stats.vercel.app/api?username=basileatsougan&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basileatsougan&layout=compact&theme=tokyonight)  
@@ -71,13 +69,13 @@ I’m a software engineer, passionate about building impactful solutions across 
 
 <p align="left">
   <a href="https://portfolio-nine-xi-99.vercel.app/">
-    <img src="https://devicon-website.vercel.app/api/socketio/original.svg" alt="Portfolio" width="40" height="40"/>
+    <img src="https://devicon-website.vercel.app/api/socketio/original.svg?color=%23FFFFFF" alt="Portfolio" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/basile-atsougan/">
     <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/basileatsougan">
-    <img src="https://devicon-website.vercel.app/api/github/original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
