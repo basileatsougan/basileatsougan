@@ -16,32 +16,41 @@ I’m a software engineer, passionate about building impactful solutions across 
 ---
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### Frontend
-![TypeScript](https://devicon-website.vercel.app/api/typescript/original.svg)
-![JavaScript](https://devicon-website.vercel.app/api/javascript/original.svg)
-![ReactJS](https://devicon-website.vercel.app/api/react/original.svg)
-![NextJS](https://devicon-website.vercel.app/api/nextjs/original.svg)
-![Angular](https://devicon-website.vercel.app/api/angularjs/original.svg)
-![React Native](https://devicon-website.vercel.app/api/react/original.svg)
+### Frontend  
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" alt="NextJS" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React Native" width="40" height="40"/>
+</p>
 
-
-### Backend
-![Django](https://devicon-website.vercel.app/api/django/plain.svg)
-![Python](https://devicon-website.vercel.app/api/python/original.svg)
-![NestJS](https://devicon-website.vercel.app/api/nestjs/plain.svg)
-![Node.js](https://devicon-website.vercel.app/api/nodejs/original.svg)
+### Backend  
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/django/plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="Node.js" width="40" height="40"/>
+</p>
 
 ### Databases  
-![PostgresSQL](https://devicon-website.vercel.app/api/postgresql/original.svg)
-![MySQL](https://devicon-website.vercel.app/api/mysql/original-wordmark.svg)
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="PostgresSQL" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 ### DevOps & Tools  
-![Git](https://devicon-website.vercel.app/api/git/original.svg)
-![GitHub](https://devicon-website.vercel.app/api/github/original.svg)
-![Docker](https://devicon-website.vercel.app/api/docker/original.svg)
-![VS Code](https://devicon-website.vercel.app/api/vscode/original.svg)
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/github/original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+
 
 <!---
 basileatsougan/basileatsougan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
