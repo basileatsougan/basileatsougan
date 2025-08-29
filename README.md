@@ -10,8 +10,9 @@ I’m a software engineer, passionate about building impactful solutions across 
 🛠️ Building: A church music app, an AI app that summarizes great books, and a car rental website with integrated booking and payment systems.  
 💡 Fun fact: I once turned a $350 trading capital into $1,000 before experimenting with different strategies!  
 
+To see my Portfolio, click on: [Portfolio](https://portfolio-nine-xi-99.vercel.app/)
 
-📨 You can reach at: **atsougan870@gmail.com** | [LinkedIn] (https://www.linkedin.com/in/basile-atsougan/)
+📨 You can reach at: **atsougan870@gmail.com** | ![LinkedIn](https://www.linkedin.com/in/basile-atsougan/)
 
 ---
 
@@ -65,7 +66,7 @@ I’m a software engineer, passionate about building impactful solutions across 
 
 ---
 
-## 🌍 Social & Projects  
+## 🌍 Social  
 
 <p align="left">
   <a href="https://portfolio-nine-xi-99.vercel.app/">
