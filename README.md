@@ -30,7 +30,7 @@ I’m a software engineer, passionate about building impactful solutions across 
 
 ### Backend  
 <p align="left">
-  <img src="https://devicon-website.vercel.app/api/django/plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg?color=%23EDF6F2" alt="Django" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" alt="NestJS" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="Node.js" width="40" height="40"/>
@@ -45,13 +45,44 @@ I’m a software engineer, passionate about building impactful solutions across 
 ### DevOps & Tools  
 <p align="left">
   <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://devicon-website.vercel.app/api/github/original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFFFFF" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 
 
+---
+
+## 📊 GitHub Stats  
+
+## 📊 GitHub Stats  
+
+![Basile's GitHub stats](https://github-readme-stats.vercel.app/api?username=basileatsougan&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basileatsougan&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basileatsougan&theme=tokyonight)  
+
+
+---
+
+## 🌍 Social & Projects  
+
+<p align="left">
+  <a href="https://portfolio-nine-xi-99.vercel.app/">
+    <img src="https://devicon-website.vercel.app/api/socketio/original.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/basile-atsougan/">
+    <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/basileatsougan">
+    <img src="https://devicon-website.vercel.app/api/github/original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
+
+ 
 <!---
 basileatsougan/basileatsougan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
